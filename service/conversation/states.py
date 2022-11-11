@@ -1,0 +1,2 @@
+CHOOSING = 1
+VISA_STATS = 2
